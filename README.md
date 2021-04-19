@@ -1,4 +1,4 @@
-My team asks me to create some instruction to run this code. As they do not know that web frontend is just a files, and they are her:)
+My team asks me to create some instruction to run this code. As they do not know that web frontend is just a files, and they are hear:)
 
 So to follow the formality of the assignment and my team desires. Look at the instructions how to run this code.
 
